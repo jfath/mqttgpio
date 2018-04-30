@@ -1,6 +1,6 @@
 # mqttgpio  
 
-D1 mini code for control of antenna switch using mqtt. Intended for use with up to 4 single pole double throw latching RF relays.  
+D1 mini code for control of an antenna switch using mqtt. Intended for use with up to 4 single pole double throw latching RF relays.  
   
 #### Setup  
 
