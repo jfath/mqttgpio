@@ -4,14 +4,15 @@ D1 mini code for control of an antenna switch using mqtt. Intended for use with 
   
 #### Setup  
 
-Edit Wifi ssid and password for your network  
+Edit WiFi ssid and password for your network  
 Edit commandTopic and statusTopic to suit your environment  
 Edit mqtt_server to match address of your mqtt broker  
 Compile and flash code to D1 mini  
   
 #### Usage  
 
-Use an MQTT client to send four character control string to topic barn/iot/antSwitchCommand  
+Use an MQTT client to send four character control string to your command topic  
+Optionally, check your status topic to see if the control string was received   
 Each character of the control string corresponds with a single relay and can be '1' , '2', or 'x' to set position 1, position 2, or as-is  
   
 #### Hardware  
