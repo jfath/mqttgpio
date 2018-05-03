@@ -17,11 +17,11 @@ Each character of the control string corresponds with a single relay and can be 
   
 #### Hardware  
 
-[Schematic](https://i.imgur.com/pxae8wm.png)
+[Schematic](https://github.com/jfath/mqttgpio/blob/master/Schematic_antennaSwitch_Sheet-1_20180430083315.png)
   
-[PCB](https://i.imgur.com/wOAe9j4.png)
+[PCB](https://github.com/jfath/mqttgpio/blob/master/PCB_antennaSwitch-PCB_20180430085031.png)
   
-[Gerber](https://drive.google.com/file/d/1SJwJE5P14cPRr-Dynpui_YQx7vtM8f5s/view?usp=sharing)
+[Gerber](https://github.com/jfath/mqttgpio/blob/master/Gerber_antennaSwitch_PCB_20180430083238.zip)
   
 #### Credits  
 
